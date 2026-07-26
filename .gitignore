@@ -16,3 +16,8 @@ scan_result.json
 debug-home.html
 generated-icon.png
 
+package-lock.json
+_nm_old
+_install*.log
+npm-install.log
+
