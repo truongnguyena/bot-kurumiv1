@@ -1,0 +1,147 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "version": "20.0.0",
+    "notiGroup": true,
+    "NOTIFICATION": true,
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "accpetPending": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "❤"
+    },
+    "autoClear": 0,
+    "adminOnly": false,
+    "duyetbox": false,
+    "encryptSt": false,
+    "UPTIME": 175840.33042499397,
+    "autoRestart": 60,
+    "commandDisabled": [
+        "cap.js"
+    ],
+    "eventDisabled": [
+        "antibdbot.js",
+        "rule.js"
+    ],
+    "configApi": {
+        "domain": "https://api.blacksky04.repl.co"
+    },
+    "EMAIL": "truongnpnps40833@gmail.com",
+    "PASSWORD": "25862586a",
+    "OTPKEY": "",
+    "BOTNAME": "kurumi v1.1",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100041651315453",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "online": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "antinamebot": {
+        "status": true
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 50000
+    },
+    "fb": {
+        "API_KEY": "FI6bX3kC"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 220
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "poke": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 150000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": "",
+        "sendNoti": true,
+        "timeToUnsend": 20
+    },
+    "log": {
+        "enable": true
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDPeYxUaAlpfrn6QgGaKnfLyGoqHp5fyGY"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyBKgc6dhJ7kn4cSxqVOckkGFL0h4cryxKQ"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "fbvideo": {
+        "API_KEY": "FI6bX3kC"
+    },
+    "tikinfo": {
+        "apikey": "fOeckmtu"
+    }
+}

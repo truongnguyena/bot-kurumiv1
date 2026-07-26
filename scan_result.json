@@ -1,0 +1,1510 @@
+{
+  "total": 375,
+  "loaded": 375,
+  "warnings": 0,
+  "errors": 0,
+  "errorList": [],
+  "warningList": [],
+  "loadedList": [
+    {
+      "file": "10mm.js",
+      "name": "10mm"
+    },
+    {
+      "file": "18-.js",
+      "name": "18+"
+    },
+    {
+      "file": "4k.js",
+      "name": "4k"
+    },
+    {
+      "file": "acp.js",
+      "name": "acp"
+    },
+    {
+      "file": "ad.js",
+      "name": "ad"
+    },
+    {
+      "file": "adc.js",
+      "name": "adc"
+    },
+    {
+      "file": "adduser.js",
+      "name": "add"
+    },
+    {
+      "file": "admin.js",
+      "name": "admin"
+    },
+    {
+      "file": "admt.js",
+      "name": "Ad"
+    },
+    {
+      "file": "afk.js",
+      "name": "afk"
+    },
+    {
+      "file": "age.js",
+      "name": "age"
+    },
+    {
+      "file": "ai.js",
+      "name": "Ai"
+    },
+    {
+      "file": "ani.js",
+      "name": "vdanime"
+    },
+    {
+      "file": "anime.js",
+      "name": "anime"
+    },
+    {
+      "file": "animevd.js",
+      "name": "animevd"
+    },
+    {
+      "file": "anti.js",
+      "name": "anti"
+    },
+    {
+      "file": "antijoin.js",
+      "name": "antijoin"
+    },
+    {
+      "file": "antinamebot.js",
+      "name": "antinamebot"
+    },
+    {
+      "file": "antiout.js",
+      "name": "antiout"
+    },
+    {
+      "file": "api.js",
+      "name": "api"
+    },
+    {
+      "file": "app.js",
+      "name": "app"
+    },
+    {
+      "file": "appstate.js",
+      "name": "appstate"
+    },
+    {
+      "file": "art.js",
+      "name": "art"
+    },
+    {
+      "file": "asumu.js",
+      "name": "usamu"
+    },
+    {
+      "file": "audio.js",
+      "name": "audio"
+    },
+    {
+      "file": "autoadd.js",
+      "name": "autoadd"
+    },
+    {
+      "file": "autobdtt.js",
+      "name": "dbtt"
+    },
+    {
+      "file": "autodowm.js",
+      "name": "autodown"
+    },
+    {
+      "file": "autodown.js",
+      "name": "autodow"
+    },
+    {
+      "file": "autodown2.js",
+      "name": "autodown2"
+    },
+    {
+      "file": "autodown3.js",
+      "name": "autodown3"
+    },
+    {
+      "file": "autodown4.js",
+      "name": "autodown4"
+    },
+    {
+      "file": "autodown5.js",
+      "name": "autodown5"
+    },
+    {
+      "file": "autodubaothoitiet.js",
+      "name": "autodubaothoitiet"
+    },
+    {
+      "file": "autokick.js",
+      "name": "autokick"
+    },
+    {
+      "file": "autolink.js",
+      "name": "autolink"
+    },
+    {
+      "file": "autoreset.js",
+      "name": "autoreset"
+    },
+    {
+      "file": "autoseen.js",
+      "name": "autoseen"
+    },
+    {
+      "file": "autosend.js",
+      "name": "autosend"
+    },
+    {
+      "file": "autosetname.js",
+      "name": "autosetname"
+    },
+    {
+      "file": "autothoitiet.js",
+      "name": "t01"
+    },
+    {
+      "file": "autott.js",
+      "name": "autotb"
+    },
+    {
+      "file": "autoweather.js",
+      "name": "autoweather"
+    },
+    {
+      "file": "avt.js",
+      "name": "avt"
+    },
+    {
+      "file": "avt2.js",
+      "name": "avt2"
+    },
+    {
+      "file": "avtdoi.js",
+      "name": "avtdoi"
+    },
+    {
+      "file": "ayaka.js",
+      "name": "ayaka"
+    },
+    {
+      "file": "bacho.js",
+      "name": "bacho"
+    },
+    {
+      "file": "baitap.js",
+      "name": "baitap"
+    },
+    {
+      "file": "ban.js",
+      "name": "ban"
+    },
+    {
+      "file": "banbaucua.js",
+      "name": "banbaucua"
+    },
+    {
+      "file": "banchanle.js",
+      "name": "banchanle"
+    },
+    {
+      "file": "banchim.js",
+      "name": "banchim"
+    },
+    {
+      "file": "bank.js",
+      "name": "bank"
+    },
+    {
+      "file": "banned.js",
+      "name": "banned"
+    },
+    {
+      "file": "bannerpt.js",
+      "name": "bannerpt"
+    },
+    {
+      "file": "bans.js",
+      "name": "bans"
+    },
+    {
+      "file": "bantaixiu.js",
+      "name": "bantaixiu"
+    },
+    {
+      "file": "bantho.js",
+      "name": "bantho"
+    },
+    {
+      "file": "batgiam.js",
+      "name": "batgiam"
+    },
+    {
+      "file": "baucua.js",
+      "name": "baucua"
+    },
+    {
+      "file": "biafb.js",
+      "name": "biafb"
+    },
+    {
+      "file": "bigtext.js",
+      "name": "bigtext"
+    },
+    {
+      "file": "blink.js",
+      "name": "blink"
+    },
+    {
+      "file": "bmi.js",
+      "name": "bmi"
+    },
+    {
+      "file": "bot.js",
+      "name": "bot"
+    },
+    {
+      "file": "box.js",
+      "name": "box"
+    },
+    {
+      "file": "boxinfo.js",
+      "name": "boxinfo"
+    },
+    {
+      "file": "boy.js",
+      "name": "boy"
+    },
+    {
+      "file": "busy.js",
+      "name": "busy"
+    },
+    {
+      "file": "bói.js",
+      "name": "bói"
+    },
+    {
+      "file": "cache.js",
+      "name": "cache"
+    },
+    {
+      "file": "callad.js",
+      "name": "callad"
+    },
+    {
+      "file": "camsung.js",
+      "name": "camsung"
+    },
+    {
+      "file": "canbang.js",
+      "name": "canbang"
+    },
+    {
+      "file": "capdoi.js",
+      "name": "capdoi"
+    },
+    {
+      "file": "capwed.js",
+      "name": "capwed"
+    },
+    {
+      "file": "card.js",
+      "name": "card"
+    },
+    {
+      "file": "cardbox.js",
+      "name": "cardbox"
+    },
+    {
+      "file": "cardinfo.js",
+      "name": "cardinfo"
+    },
+    {
+      "file": "caro.js",
+      "name": "caro"
+    },
+    {
+      "file": "cauca.js",
+      "name": "cauca"
+    },
+    {
+      "file": "cave.js",
+      "name": "cave"
+    },
+    {
+      "file": "chanle.js",
+      "name": "chanle"
+    },
+    {
+      "file": "check.js",
+      "name": "check"
+    },
+    {
+      "file": "checknude.js",
+      "name": "checknude"
+    },
+    {
+      "file": "checkwed.js",
+      "name": "checkweb"
+    },
+    {
+      "file": "cheems.js",
+      "name": "cheems"
+    },
+    {
+      "file": "chitanda.js",
+      "name": "chitanda"
+    },
+    {
+      "file": "chongcuopbox.js",
+      "name": "chongcuopbox"
+    },
+    {
+      "file": "chuctet.js",
+      "name": "chuctet"
+    },
+    {
+      "file": "chuyentien.js",
+      "name": "chuyentien"
+    },
+    {
+      "file": "chỉ.js",
+      "name": "chỉ"
+    },
+    {
+      "file": "clearcache.js",
+      "name": "clearcache"
+    },
+    {
+      "file": "cmd.js",
+      "name": "cmd"
+    },
+    {
+      "file": "cmsn.js",
+      "name": "cmsn"
+    },
+    {
+      "file": "cnbh.js",
+      "name": "cnbh"
+    },
+    {
+      "file": "code.js",
+      "name": "code"
+    },
+    {
+      "file": "config.js",
+      "name": "config"
+    },
+    {
+      "file": "congthuc.js",
+      "name": "congthuc"
+    },
+    {
+      "file": "console.js",
+      "name": "console"
+    },
+    {
+      "file": "cony.js",
+      "name": "cony"
+    },
+    {
+      "file": "cosplay.js",
+      "name": "cosplay"
+    },
+    {
+      "file": "count.js",
+      "name": "count"
+    },
+    {
+      "file": "coverfb.js",
+      "name": "coverfb"
+    },
+    {
+      "file": "covid.js",
+      "name": "covid"
+    },
+    {
+      "file": "covua.js",
+      "name": "covua"
+    },
+    {
+      "file": "csgoquiz.js",
+      "name": "csgoquiz"
+    },
+    {
+      "file": "cvtime.js",
+      "name": "cvtime"
+    },
+    {
+      "file": "cướp.js",
+      "name": "cướp"
+    },
+    {
+      "file": "dabong.js",
+      "name": "dabong"
+    },
+    {
+      "file": "daily.js",
+      "name": "daily"
+    },
+    {
+      "file": "daochu.js",
+      "name": "daochu"
+    },
+    {
+      "file": "daoly.js",
+      "name": "daoly"
+    },
+    {
+      "file": "daorong.js",
+      "name": "daorong"
+    },
+    {
+      "file": "data.js",
+      "name": "data"
+    },
+    {
+      "file": "dating.js",
+      "name": "dating"
+    },
+    {
+      "file": "datlich.js",
+      "name": "datlich"
+    },
+    {
+      "file": "dec.js",
+      "name": "dec"
+    },
+    {
+      "file": "dev.js",
+      "name": "dev"
+    },
+    {
+      "file": "dhbc.js",
+      "name": "dhbc"
+    },
+    {
+      "file": "dhbcemoji.js",
+      "name": "dhbcemoji"
+    },
+    {
+      "file": "dich.js",
+      "name": "dich"
+    },
+    {
+      "file": "didao.js",
+      "name": "didao"
+    },
+    {
+      "file": "doantuoi.js",
+      "name": "doantuoi"
+    },
+    {
+      "file": "dovui.js",
+      "name": "dovui"
+    },
+    {
+      "file": "downurl.js",
+      "name": "downurl"
+    },
+    {
+      "file": "drake.js",
+      "name": "drake"
+    },
+    {
+      "file": "draw.js",
+      "name": "draw"
+    },
+    {
+      "file": "dsqtv.js",
+      "name": "dsqtv"
+    },
+    {
+      "file": "duaxe.js",
+      "name": "duaxe"
+    },
+    {
+      "file": "duyetbox.js",
+      "name": "duyetbox"
+    },
+    {
+      "file": "duyettv.js",
+      "name": "duyettv"
+    },
+    {
+      "file": "dú.js",
+      "name": "dú"
+    },
+    {
+      "file": "earth.js",
+      "name": "earth"
+    },
+    {
+      "file": "emilia.js",
+      "name": "emilia"
+    },
+    {
+      "file": "event.js",
+      "name": "event"
+    },
+    {
+      "file": "face.js",
+      "name": "face"
+    },
+    {
+      "file": "family.js",
+      "name": "family"
+    },
+    {
+      "file": "fast.js",
+      "name": "fast"
+    },
+    {
+      "file": "fb.js",
+      "name": "facebook"
+    },
+    {
+      "file": "fbcover.js",
+      "name": "fbcover"
+    },
+    {
+      "file": "fbget.js",
+      "name": "fbget"
+    },
+    {
+      "file": "fbs.js",
+      "name": "fbs"
+    },
+    {
+      "file": "fbvd.js",
+      "name": "fbvd"
+    },
+    {
+      "file": "fbvideo.js",
+      "name": "fbvideo"
+    },
+    {
+      "file": "file.js",
+      "name": "file"
+    },
+    {
+      "file": "flop.js",
+      "name": "flop"
+    },
+    {
+      "file": "gai.js",
+      "name": "gai"
+    },
+    {
+      "file": "gaixinh.js",
+      "name": "gaixinh"
+    },
+    {
+      "file": "ganyu.js",
+      "name": "ganyu"
+    },
+    {
+      "file": "getlink.js",
+      "name": "getlink"
+    },
+    {
+      "file": "gettoken.js",
+      "name": "getaccesstoken"
+    },
+    {
+      "file": "gg.js",
+      "name": "gg"
+    },
+    {
+      "file": "ghep.js",
+      "name": "ghep"
+    },
+    {
+      "file": "ghichu.js",
+      "name": "ghichu"
+    },
+    {
+      "file": "ghinho.js",
+      "name": "ghinho"
+    },
+    {
+      "file": "ghép.js",
+      "name": "ghép"
+    },
+    {
+      "file": "giadinh.js",
+      "name": "giadinh"
+    },
+    {
+      "file": "girl.js",
+      "name": "girl"
+    },
+    {
+      "file": "github.js",
+      "name": "github"
+    },
+    {
+      "file": "giveaway.js",
+      "name": "giveaway"
+    },
+    {
+      "file": "godtext.js",
+      "name": "godtext"
+    },
+    {
+      "file": "google.js",
+      "name": "google"
+    },
+    {
+      "file": "gái.js",
+      "name": "gái"
+    },
+    {
+      "file": "gáy.js",
+      "name": "gáy"
+    },
+    {
+      "file": "gỡ.js",
+      "name": "gỡ"
+    },
+    {
+      "file": "hanhtinh.js",
+      "name": "hanhtinh"
+    },
+    {
+      "file": "help.js",
+      "name": "help"
+    },
+    {
+      "file": "hentai.js",
+      "name": "hentai"
+    },
+    {
+      "file": "heodenroi.js",
+      "name": "heodenroi"
+    },
+    {
+      "file": "hi.js",
+      "name": "hi"
+    },
+    {
+      "file": "hiepdam.js",
+      "name": "hiepdam"
+    },
+    {
+      "file": "hoingu.js",
+      "name": "hoingu"
+    },
+    {
+      "file": "hunter.js",
+      "name": "hunter"
+    },
+    {
+      "file": "hôn.js",
+      "name": "hôn"
+    },
+    {
+      "file": "IG.js",
+      "name": "ig"
+    },
+    {
+      "file": "imgur.js",
+      "name": "imgur"
+    },
+    {
+      "file": "in4.js",
+      "name": "in4"
+    },
+    {
+      "file": "info.js",
+      "name": "info2"
+    },
+    {
+      "file": "instagram.js",
+      "name": "instagram"
+    },
+    {
+      "file": "ip.js",
+      "name": "ip"
+    },
+    {
+      "file": "japan.js",
+      "name": "japan"
+    },
+    {
+      "file": "join.js",
+      "name": "join"
+    },
+    {
+      "file": "joker.js",
+      "name": "joker"
+    },
+    {
+      "file": "keobo.js",
+      "name": "keobo"
+    },
+    {
+      "file": "keobuabao.js",
+      "name": "kbb"
+    },
+    {
+      "file": "khoanh.js",
+      "name": "khoanh"
+    },
+    {
+      "file": "kick.js",
+      "name": "kick"
+    },
+    {
+      "file": "kickndfb.js",
+      "name": "kickndfb"
+    },
+    {
+      "file": "kiss.js",
+      "name": "kiss"
+    },
+    {
+      "file": "kurumi.js",
+      "name": "kurumi"
+    },
+    {
+      "file": "lammoi.js",
+      "name": "lammoi"
+    },
+    {
+      "file": "leave.js",
+      "name": "leave"
+    },
+    {
+      "file": "lienquan.js",
+      "name": "lienquan"
+    },
+    {
+      "file": "list.js",
+      "name": "list"
+    },
+    {
+      "file": "listbox.js",
+      "name": "listbox"
+    },
+    {
+      "file": "listen.js",
+      "name": "listen"
+    },
+    {
+      "file": "listqtv.js",
+      "name": "listqtv"
+    },
+    {
+      "file": "locmem.js",
+      "name": "locmem"
+    },
+    {
+      "file": "log.js",
+      "name": "log"
+    },
+    {
+      "file": "logout.js",
+      "name": "logout"
+    },
+    {
+      "file": "loli.js",
+      "name": "loli"
+    },
+    {
+      "file": "loto.js",
+      "name": "loto"
+    },
+    {
+      "file": "love.js",
+      "name": "love"
+    },
+    {
+      "file": "lq.js",
+      "name": "lq"
+    },
+    {
+      "file": "lucky.js",
+      "name": "lucky"
+    },
+    {
+      "file": "lyrics.js",
+      "name": "lyrics"
+    },
+    {
+      "file": "ma.js",
+      "name": "ma"
+    },
+    {
+      "file": "masoi.js",
+      "name": "masoi"
+    },
+    {
+      "file": "math.js",
+      "name": "math"
+    },
+    {
+      "file": "meme.js",
+      "name": "meme"
+    },
+    {
+      "file": "menu.js",
+      "name": "menu"
+    },
+    {
+      "file": "mine.js",
+      "name": "mine"
+    },
+    {
+      "file": "mirai.js",
+      "name": "mirai"
+    },
+    {
+      "file": "money.js",
+      "name": "money"
+    },
+    {
+      "file": "mong.js",
+      "name": "mong"
+    },
+    {
+      "file": "moon.js",
+      "name": "moon"
+    },
+    {
+      "file": "morse.js",
+      "name": "morse"
+    },
+    {
+      "file": "mp3.js",
+      "name": "mp3"
+    },
+    {
+      "file": "msg.js",
+      "name": "savemsg"
+    },
+    {
+      "file": "mv.js",
+      "name": "mv"
+    },
+    {
+      "file": "mylove.js",
+      "name": "mylove"
+    },
+    {
+      "file": "màu.js",
+      "name": "màu"
+    },
+    {
+      "file": "mông.js",
+      "name": "mông"
+    },
+    {
+      "file": "namtay.js",
+      "name": "namtay"
+    },
+    {
+      "file": "nasa.js",
+      "name": "nasa"
+    },
+    {
+      "file": "neko.js",
+      "name": "neko"
+    },
+    {
+      "file": "newfeed.js",
+      "name": "newfeed"
+    },
+    {
+      "file": "news.js",
+      "name": "news"
+    },
+    {
+      "file": "ngôn.js",
+      "name": "ngôn"
+    },
+    {
+      "file": "ngủ.js",
+      "name": "ngủ"
+    },
+    {
+      "file": "nhentai.js",
+      "name": "nhentai"
+    },
+    {
+      "file": "nhạc.js",
+      "name": "nhactiktok"
+    },
+    {
+      "file": "noitu.js",
+      "name": "noitu"
+    },
+    {
+      "file": "note.js",
+      "name": "note"
+    },
+    {
+      "file": "npm.js",
+      "name": "npm"
+    },
+    {
+      "file": "nsfw.js",
+      "name": "nsfw"
+    },
+    {
+      "file": "nude.js",
+      "name": "nude"
+    },
+    {
+      "file": "offbot.js",
+      "name": "offbot"
+    },
+    {
+      "file": "only.js",
+      "name": "\n"
+    },
+    {
+      "file": "out.js",
+      "name": "out"
+    },
+    {
+      "file": "outall.js",
+      "name": "outall"
+    },
+    {
+      "file": "password.js",
+      "name": "password"
+    },
+    {
+      "file": "pastebin.js",
+      "name": "pastebin"
+    },
+    {
+      "file": "pending.js",
+      "name": "pending"
+    },
+    {
+      "file": "phantich.js",
+      "name": "phantich"
+    },
+    {
+      "file": "pin.js",
+      "name": "pin"
+    },
+    {
+      "file": "ping.js",
+      "name": "ping"
+    },
+    {
+      "file": "poke.js",
+      "name": "poke"
+    },
+    {
+      "file": "prefix.js",
+      "name": "prefix"
+    },
+    {
+      "file": "pubg.js",
+      "name": "pubg"
+    },
+    {
+      "file": "qr.js",
+      "name": "qr"
+    },
+    {
+      "file": "qrscan.js",
+      "name": "qrscan"
+    },
+    {
+      "file": "qtv.js",
+      "name": "qtv"
+    },
+    {
+      "file": "quiz.js",
+      "name": "quiz"
+    },
+    {
+      "file": "quỹ.js",
+      "name": "quỹ"
+    },
+    {
+      "file": "raiden.js",
+      "name": "raiden"
+    },
+    {
+      "file": "rankup.js",
+      "name": "rankup"
+    },
+    {
+      "file": "reallove.js",
+      "name": "reallove"
+    },
+    {
+      "file": "rem.js",
+      "name": "rem"
+    },
+    {
+      "file": "resend.js",
+      "name": "resend"
+    },
+    {
+      "file": "resetmoney.js",
+      "name": "resetmoney"
+    },
+    {
+      "file": "rname.js",
+      "name": "rname"
+    },
+    {
+      "file": "rnamebot.js",
+      "name": "renamebot"
+    },
+    {
+      "file": "roll.js",
+      "name": "roll"
+    },
+    {
+      "file": "rp.js",
+      "name": "rp"
+    },
+    {
+      "file": "rs.js",
+      "name": "rs"
+    },
+    {
+      "file": "rule.js",
+      "name": "rule"
+    },
+    {
+      "file": "run.js",
+      "name": "run"
+    },
+    {
+      "file": "runmocky.js",
+      "name": "runmocky"
+    },
+    {
+      "file": "sailenh.js",
+      "name": "\n"
+    },
+    {
+      "file": "santa.js",
+      "name": "santa"
+    },
+    {
+      "file": "say.js",
+      "name": "say"
+    },
+    {
+      "file": "scr.js",
+      "name": "scr"
+    },
+    {
+      "file": "sendbox.js",
+      "name": "sendbox"
+    },
+    {
+      "file": "setdatabox.js",
+      "name": "setdatabox"
+    },
+    {
+      "file": "setdatauser.js",
+      "name": "setdatauser"
+    },
+    {
+      "file": "setexp.js",
+      "name": "setexp"
+    },
+    {
+      "file": "setimgbox.js",
+      "name": "setimgbox"
+    },
+    {
+      "file": "setjoin.js",
+      "name": "setjoin"
+    },
+    {
+      "file": "setluot.js",
+      "name": "setluot"
+    },
+    {
+      "file": "setmoney.js",
+      "name": "setmoney"
+    },
+    {
+      "file": "setname.js",
+      "name": "setname"
+    },
+    {
+      "file": "setprefix.js",
+      "name": "setprefix"
+    },
+    {
+      "file": "setting.js",
+      "name": "setting"
+    },
+    {
+      "file": "shortcut.js",
+      "name": "shortcut"
+    },
+    {
+      "file": "siesta.js",
+      "name": "siesta"
+    },
+    {
+      "file": "sim.js",
+      "name": "sim"
+    },
+    {
+      "file": "sing.js",
+      "name": "sing"
+    },
+    {
+      "file": "skinlqmb.js",
+      "name": "skinlqmb"
+    },
+    {
+      "file": "sleep.js",
+      "name": "sleep"
+    },
+    {
+      "file": "slot.js",
+      "name": "slot"
+    },
+    {
+      "file": "spam.js",
+      "name": "spam"
+    },
+    {
+      "file": "sub.js",
+      "name": "sub"
+    },
+    {
+      "file": "system.js",
+      "name": "system"
+    },
+    {
+      "file": "sẽ.js",
+      "name": "sẽ"
+    },
+    {
+      "file": "tachnen.js",
+      "name": "tachnen"
+    },
+    {
+      "file": "tagadmin.js",
+      "name": "goiadmin"
+    },
+    {
+      "file": "taglientuc.js",
+      "name": "taglientuc"
+    },
+    {
+      "file": "tagqtv.js",
+      "name": "tagqtv"
+    },
+    {
+      "file": "taixiu.js",
+      "name": "taixiu"
+    },
+    {
+      "file": "tangai.js",
+      "name": "tangai"
+    },
+    {
+      "file": "tangqua.js",
+      "name": "tangqua"
+    },
+    {
+      "file": "taoanhbox.js",
+      "name": "taoanhbox"
+    },
+    {
+      "file": "tetam.js",
+      "name": "tetam"
+    },
+    {
+      "file": "text.js",
+      "name": "text"
+    },
+    {
+      "file": "tft.js",
+      "name": "tft"
+    },
+    {
+      "file": "thamgia.js",
+      "name": "thamgia"
+    },
+    {
+      "file": "thoitiet.js",
+      "name": "thoitiet"
+    },
+    {
+      "file": "thread.js",
+      "name": "thread"
+    },
+    {
+      "file": "thuphap.js",
+      "name": "thuphap"
+    },
+    {
+      "file": "thuthach.js",
+      "name": "thuthach"
+    },
+    {
+      "file": "thơ.js",
+      "name": "thơ"
+    },
+    {
+      "file": "tid.js",
+      "name": "tid"
+    },
+    {
+      "file": "tikdown.js",
+      "name": "tikvideo"
+    },
+    {
+      "file": "tikinfo.js",
+      "name": "tikinfo"
+    },
+    {
+      "file": "tiktok.js",
+      "name": "tiktok"
+    },
+    {
+      "file": "timanh.js",
+      "name": "timanh"
+    },
+    {
+      "file": "time.js",
+      "name": "time"
+    },
+    {
+      "file": "timeban.js",
+      "name": "timeban"
+    },
+    {
+      "file": "timejoin.js",
+      "name": "timejoin"
+    },
+    {
+      "file": "timny.js",
+      "name": "timny"
+    },
+    {
+      "file": "tinder.js",
+      "name": "tinder"
+    },
+    {
+      "file": "tod.js",
+      "name": "tod"
+    },
+    {
+      "file": "toilet.js",
+      "name": "toilet"
+    },
+    {
+      "file": "top.js",
+      "name": "top"
+    },
+    {
+      "file": "trai.js",
+      "name": "trai"
+    },
+    {
+      "file": "trangbi.js",
+      "name": "trangbi"
+    },
+    {
+      "file": "trans.js",
+      "name": "trans"
+    },
+    {
+      "file": "trump.js",
+      "name": "trump"
+    },
+    {
+      "file": "truyencuoi.js",
+      "name": "truyencuoi"
+    },
+    {
+      "file": "truyenqq.js",
+      "name": "truyenqq"
+    },
+    {
+      "file": "tt.js",
+      "name": "tt"
+    },
+    {
+      "file": "ttt.js",
+      "name": "ttt"
+    },
+    {
+      "file": "tudien.js",
+      "name": "tudien"
+    },
+    {
+      "file": "tx.js",
+      "name": "tx"
+    },
+    {
+      "file": "tát.js",
+      "name": "tát"
+    },
+    {
+      "file": "uid.js",
+      "name": "uid"
+    },
+    {
+      "file": "uid2.js",
+      "name": "uid2"
+    },
+    {
+      "file": "unban.js",
+      "name": "unban"
+    },
+    {
+      "file": "unsend.js",
+      "name": "unsendReaction"
+    },
+    {
+      "file": "upt.js",
+      "name": "upt"
+    },
+    {
+      "file": "upt1.js",
+      "name": "upt1"
+    },
+    {
+      "file": "upt2.js",
+      "name": "upt2"
+    },
+    {
+      "file": "uptanime.js",
+      "name": "uptv2"
+    },
+    {
+      "file": "uptbot.js",
+      "name": "uptbot"
+    },
+    {
+      "file": "uptime.js",
+      "name": "uptime"
+    },
+    {
+      "file": "uptv3.js",
+      "name": "uptv3"
+    },
+    {
+      "file": "user.js",
+      "name": "user"
+    },
+    {
+      "file": "valentine.js",
+      "name": "valentine"
+    },
+    {
+      "file": "video.js",
+      "name": "video"
+    },
+    {
+      "file": "videoanime.js",
+      "name": "videoanime"
+    },
+    {
+      "file": "violet.js",
+      "name": "violet"
+    },
+    {
+      "file": "vnex.js",
+      "name": "vnex"
+    },
+    {
+      "file": "vongquay.js",
+      "name": "vongquay"
+    },
+    {
+      "file": "vuatv.js",
+      "name": "vuatv"
+    },
+    {
+      "file": "vẽ.js",
+      "name": "vẽ"
+    },
+    {
+      "file": "wall.js",
+      "name": "wall"
+    },
+    {
+      "file": "wallanime.js",
+      "name": "wallalime"
+    },
+    {
+      "file": "wanted.js",
+      "name": "wanted"
+    },
+    {
+      "file": "warn.js",
+      "name": "warn"
+    },
+    {
+      "file": "weather.js",
+      "name": "weather"
+    },
+    {
+      "file": "wiki.js",
+      "name": "wiki"
+    },
+    {
+      "file": "work.js",
+      "name": "work"
+    },
+    {
+      "file": "xidach.js",
+      "name": "xidach"
+    },
+    {
+      "file": "yaytext.js",
+      "name": "yaytext"
+    },
+    {
+      "file": "yeulientuc.js",
+      "name": "yeulientuc"
+    },
+    {
+      "file": "ytb.js",
+      "name": "ytb"
+    },
+    {
+      "file": "zalgo.js",
+      "name": "zalgo"
+    },
+    {
+      "file": "zombie.js",
+      "name": "zombie"
+    },
+    {
+      "file": "zuck.js",
+      "name": "zuck"
+    },
+    {
+      "file": "zwar.js",
+      "name": "zwar"
+    },
+    {
+      "file": "đá.js",
+      "name": "đá"
+    },
+    {
+      "file": "đấm.js",
+      "name": "đấm"
+    }
+  ]
+}
